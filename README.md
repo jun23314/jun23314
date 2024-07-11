@@ -8,6 +8,7 @@
 <div align="center">
   <p> University Student Union Development Club - UMC 5th Server (2023.09 ~ 2024.02)</p>
   <p> Tmax Soft - internship (2023.12 ~ 2024.02)</p>
+  <p> WedataLab - internship (2024.06 ~ 2024.08)</p>
 <br>
 
 <h3 align="center">🛠️ Tech Stack 🛠️</h3>
