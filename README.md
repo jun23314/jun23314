@@ -4,14 +4,6 @@
 </div>
 <br>
 
-<h3 align="center"> 🗃️ Baekjoon 🗃️</h3>
-<div align="center">
-    <a href="https://solved.ac/dlwnsfml/">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwnsfml" alt="Solved.ac Profile">
-    </a>
-</div>
-<br>
-
 <h3 align="center">✨ Experiences ✨</h3>
 <div align="center">
   <p> University Student Union Development Club - UMC 5th Server (2023.09 ~ 2024.02)</p>
