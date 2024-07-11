@@ -64,4 +64,6 @@
     <img
       src="https://img.shields.io/badge/junhee021202@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
+  <a href="https://www.notion.so/0154609985b7431ba7e0fbbe734fd639">
+      <img src="https://img.shields.io/badge/portfolio-11B48A?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/0154609985b7431ba7e0fbbe734fd639">
 </div>
